@@ -33,3 +33,11 @@ Large Language Models**
 [[Code]](https://github.com/KaiyangZhou/CoOp)
 
 (CVPR 2022)
+
+**Parameter-Efficient Transfer Learning for NLP**
+
+[[Paper]](https://arxiv.org/pdf/1902.00751.pdf)
+
+[[Code]](https://github.com/google-research/adapter-bert)
+
+()
